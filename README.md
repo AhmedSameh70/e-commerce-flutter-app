@@ -1,17 +1,90 @@
-# sneakershopapp
+# 👟 Sneaker Shop
 
-A new Flutter project.
+A modern cross-platform e-commerce application built with Flutter, featuring a clean UI, product browsing, shopping cart functionality, and responsive design.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 👟 Browse sneaker collections
+- 🔍 Search products
+- 🛒 Add and remove items from cart
+- 📦 Shopping cart management
+- 📱 Responsive UI
+- 🎨 Modern and minimal design
+- 📂 Navigation Drawer
+- 📑 Bottom Navigation
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+
+<p align="center">
+  <img src="lib/assets/screenshots/introPage.png" width="220"/>
+  <img src="lib/assets/screenshots/homePage.png" width="220"/>
+</p>
+
+<p align="center">
+  <img src="lib/assets/screenshots/homePage2.png" width="220"/>
+  <img src="lib/assets/screenshots/drawer.png" width="220"/>
+</p>
+
+<p align="center">
+  <img src="lib/assets/screenshots/cartPage.png" width="220"/>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+- Flutter
+- Dart
+- Provider
+- Material Design
+- Custom Widgets
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+ ├── components/
+ ├── models/
+ ├── pages/
+ ├── services/
+ └── main.dart
+```
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/AhmedSameh70/SneakerShop-Flutter.git
+```
+
+Run:
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
+
+## 📌 Future Improvements
+
+- Wishlist
+- Product Details
+- Payment Integration
+- Dark Mode
+- Order History
+
+---
+
+## 👨‍💻 Author
+
+Ahmed Sameh
+
+Mobile Application Developer
