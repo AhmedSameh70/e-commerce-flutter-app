@@ -61,8 +61,7 @@ lib/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/AhmedSameh70/SneakerShop-Flutter.git
-```
+git clone https://github.com/AhmedSameh70/e-commerce-flutter-app.git```
 
 Run:
 
